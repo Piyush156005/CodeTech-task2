@@ -1,0 +1,25 @@
+step 1 -
+use the cmd or any other emulator for this task 2
+
+step2(with the cmd) -
+open cmd and write 
+javac ChatClient.java
+javac ChatServer.java
+
+step3-
+write java ChatServer First than write 
+java ChatClient second
+
+step4-
+Enter the user name - client1(any other of your choice)
+
+Repeat step4 with another cmd windows for client2,3,4,5....
+
+step5-
+write something on client 1 and the message will be seen on client2,3,4,5,.... cmd windows
+
+step6-
+To exi the cmd windows. in client windows write the command "exit" to exit the server room 
+
+
+thank you
